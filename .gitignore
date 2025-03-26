@@ -1,2 +1,5 @@
 .DS_Store
 **/__pycache__/**
+**/target/**
+Cargo.lock
+input.txt
